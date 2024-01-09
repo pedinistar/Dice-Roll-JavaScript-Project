@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+
+#myBtn{
+  background-color: gray;
+  border-radius: 3px;
+  font-family: sans-serif;
+  font-size: 3em;
+  transition: all 0.3s;
+  color: aliceblue;
+}
+
+#myBtn:hover{
+  background-color: rgba(39, 39, 39, 0.667);
+}
+
+#myNum{
+  font-family: Helvetica;
+  font-size: 3em;
+}
+
